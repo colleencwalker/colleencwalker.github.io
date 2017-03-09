@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "My Latest Posts"
+title: "Welcome to My Site"
 ---
 
 <div class="tiles">
