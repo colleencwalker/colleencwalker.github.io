@@ -1,6 +1,8 @@
 ---
 layout: article
 title:  Beautiful Budapest
+image:  
+   teaser:  budapest
 ---
 I had no idea that Budapest once rivaled Vienna for glamorous lifestyles, rich culture, and "the" place to be in Europe.  Two great wars changed all that.
 
@@ -43,17 +45,14 @@ To me, this is clearly highlighted in a story that Eleni shares about when she c
 
 I did not grow up in a country where I had to fear that anyone could be reporting to the government about my activities.  If you think the NSA listening in on your cell phone calls or tracking your shopping or web browsing history is horrible, you have no clue.  Get some perspective and read about how things were behind the Iron Curtain.  Read about Kati Marton's parents in the Enemies of the People and perhaps you will understand.  
 
-Resources:
-----------
-Nonfiction
-----------
+Resources
+---------
+NONFICTION
 Enemies of the People: My Family's Journey to America, Kati Marton, Simon & Schuster, 2009
 Madam Ambassador:  Three Years of diplomacy, dinner parties and democracy in Budapest, Eleni Kounalakis, The New Press, 2015.
 The Great Escape:  nine Jews Who Fled Hitler and Changed the World, Kati Marton, Simon & Schuster, 2006.
 The Envoy:  The Epic Rescue of the Last Jews of Europe in the Desperate Closing Months of World War II, Alex Kershaw, Da Capo Press, 2010.
 
-Fiction:
---------
-Cafe Europa: an Edna Ferber mystery, Ed Ifkovic, Poisoned Pen Press, 2015
+FICTION
+Cafe Europa: an Edna Ferber mystery, Ed Ifkovic, Poisoned Pen Press, 2015.
 The Invisible Bridge, 
------------
