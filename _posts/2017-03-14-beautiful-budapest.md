@@ -1,13 +1,12 @@
 ---
 layout: article
 title:  Beautiful Budapest
-image:  
-  teaser:  budapest.jpg
 ---
 I had no idea that Budapest once rivaled Vienna for glamorous lifestyles, rich culture, and "the" place to be in Europe.  Two great wars changed all that.
 
 I am not a history expert, journalist or travel writer.  I just like to learn a little about a place before I go.   
 
+![The Parliament Building in Budapest](/images/budapest.jpg "Budapest")
 Isolation
 ---------
 If you have ever traveled to a country to where you don't speak the language, you can understand how isolating it feels.  As a native English speaker, I can get by in many countries as so many people speak English.  It often makes it hard to learn a language when abroad as more people are interested in improving their English than helping you learn their language.  
