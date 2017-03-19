@@ -48,12 +48,12 @@ I did not grow up in a country where I had to fear that anyone could be reportin
 
 Resources
 ---------
-NONFICTION
-Enemies of the People: My Family's Journey to America, Kati Marton, Simon & Schuster, 2009
-Madam Ambassador:  Three Years of diplomacy, dinner parties and democracy in Budapest, Eleni Kounalakis, The New Press, 2015.
-The Great Escape:  nine Jews Who Fled Hitler and Changed the World, Kati Marton, Simon & Schuster, 2006.
-The Envoy:  The Epic Rescue of the Last Jews of Europe in the Desperate Closing Months of World War II, Alex Kershaw, Da Capo Press, 2010.
+NONFICTION  
+* Enemies of the People: My Family's Journey to America, Kati Marton, Simon & Schuster, 2009.
+* Madam Ambassador:  Three Years of diplomacy, dinner parties and democracy in Budapest, Eleni Kounalakis, The New Press, 2015.
+* The Great Escape:  nine Jews Who Fled Hitler and Changed the World, Kati Marton, Simon & Schuster, 2006.
+* The Envoy:  The Epic Rescue of the Last Jews of Europe in the Desperate Closing Months of World War II, Alex Kershaw, Da Capo Press, 2010.
 
-FICTION
-Cafe Europa: an Edna Ferber mystery, Ed Ifkovic, Poisoned Pen Press, 2015.
-The Invisible Bridge, 
+FICTION  
+* Cafe Europa: an Edna Ferber mystery, Ed Ifkovic, Poisoned Pen Press, 2015.
+* The Invisible Bridge, 
