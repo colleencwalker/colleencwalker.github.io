@@ -1,9 +1,8 @@
 ---
 layout: default
-title: {{ About Me }}
+title: About Me
 permalink: /about/
 ---
 Colleen Walker, Ph.D.
 ---------------------
 I was born in New Jersey.
-![my favorite place]
