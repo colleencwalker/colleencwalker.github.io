@@ -6,7 +6,7 @@ I had no idea that Budapest once rivaled Vienna for glamorous lifestyles, rich c
 
 I am not a history expert, journalist or travel writer.  I just like to learn a little about a place before I go.   
 
-![The Parliament Building in Budapest](colleencwalker.github.io/images/budapest.jpg "Budapest")
+![The Parliament Building in Budapest](colleencwalker.github.io/images/budapest.jpg "Budapest")  
 
 Isolation
 ---------
