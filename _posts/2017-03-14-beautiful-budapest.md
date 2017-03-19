@@ -2,6 +2,7 @@
 layout: article
 title:  Beautiful Budapest
 image:
+  feature: budapest.jpg
   teaser: budapest.jpg
 ---
 I had no idea that Budapest once rivaled Vienna for glamorous lifestyles, rich culture, and "the" place to be in Europe.  Two great wars changed all that.

@@ -2,6 +2,7 @@
 layout: article
 title:  The Armchair Traveler
 image: 
+  feature: armchairtraveler.jpg
   teaser: armchairtraveler.jpg
 ---
  Join me as I explore the world from the comfort of home.  I love to read - fiction, nonfiction, teen fiction.  I even listen to books on tape in the car during my daily commute to squeeze in more books.  I find reading so relaxing, the systematic scanning right-to-left across the page.  There is no need to rush – the pages will be there forever.  I love escaping to another world, real or imagined, that money, time and life typically won't let me experience physically.  
