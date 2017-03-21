@@ -1,9 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "Welcome to My Site"
+title: "Welcome!"
 ---
-Welcome!
 
 I am a reader.  As my family and friends know, when I am reading about a certain topic, I am always throwing out little interesting bits of trivia that I run across.  I will spare them, and collect all these little pieces here.  
 
