@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "Colleen Walker's Site"
-description: "This is a description of my awesome site."
+title: "The Armchair Traveler"
+description: "I read, so you don't have to."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en

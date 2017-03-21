@@ -1,10 +1,21 @@
 # Site navigation links
 
+- title: Home
+  url: /
+  excerpt: "The Armchair Traveler"
+  image:
+
 - title: Euro 2017
   url: /EuroTrip2017/
-  excerpt: "Our itinerary"
+  excerpt: "Our Itinerary"
   image:
+
+- title: What's Next'
+  url: /WhatsNext/
+  excerpt:  "Topics to Come"
+  image:  
 
 - title: About Me
   url: /about/
-  excerpt:  "A little about me"
+  excerpt:  "Probably More Than You Want to Know"
+  image: 
