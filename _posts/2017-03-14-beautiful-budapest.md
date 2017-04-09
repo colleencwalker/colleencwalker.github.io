@@ -30,7 +30,7 @@ Cafe Europa is a splendid tale where most of the action occurs inside this cafe.
 I think the US is getting better at adopting this wonderful feature, as in the last twenty years I have seen a wonderful growth in outdoor seating.  However, with the US philosophy of hurrying customers out so that the next group can be seated is not conducive to the cafe culture.  What are we missing?
 
 “The Jewish Problem” in Budapest
---------------------
+--------------------------------
 I was totally ignorant of the tragedies the Jewish community faced in Hungary.  Alex Kershaw's book *The Envoy* was as exciting as any modern thriller, but filled with the horror of Hitler's and Eichemann's terror.  This book is about Raoul Wallenberg, a Swede that traveled to Hungary and he is believed to have saved 200,000 Jewish people from the death camps.  
 
 This book describes the heroic efforts made by Raoul and others to save Jews.  Raoul issued Shutzpasses that protected Jews under the Swedish government.  Raoul strived to near exhaustion with others to save Jews from Adolf Eichemann's personal mission to rid Europe of the last remaining Jews in Budapest.  
