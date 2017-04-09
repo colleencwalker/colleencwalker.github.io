@@ -5,9 +5,7 @@ image:
   feature: budapest.jpg
   teaser: budapest.jpg
 ---
-I had no idea that Budapest once rivaled Vienna for glamorous lifestyles, rich culture, and "the" place to be in Europe.  Two great wars changed all that.
-
-I am not a history expert, journalist or travel writer.  I just like to learn a little about a place before I go.  
+I had no idea that Budapest once rivaled Vienna for glamorous lifestyles, rich culture, and "the" place to be in Europe.  Two great wars changed all that.  I also had no idea that the Jews in Hungary and particularly Budapest suffered just as much as those in Poland and Germany.
   
 Isolation
 ---------
@@ -19,7 +17,7 @@ While the Hungarian language belongs in this group, the language itself shares e
 
 Trivia
 ------
-Hungary has the largest Chinese population in Europe due to an agreement with China in that no visas are required
+Hungary has the largest Chinese population in Europe due to an agreement with China in that no visas are required.
 
 Cafe Culture
 ------------
@@ -31,18 +29,22 @@ Cafe Europa is a splendid tale where most of the action occurs inside this cafe.
 
 I think the US is getting better at adopting this wonderful feature, as in the last twenty years I have seen a wonderful growth in outdoor seating.  However, with the US philosophy of hurrying customers out so that the next group can be seated is not conducive to the cafe culture.  What are we missing?
 
-“The Jewish Problem”
+“The Jewish Problem” in Budapest
 --------------------
-I was totally ignorant of the tragedies the Jewish community faced in Hungary.  Alex Kershaw's book The Envoy was as exciting as any modern thriller, but filled with the horror of Hitler's terror.  This book is about Raoul Wallenberg, a Swede that traveled to Hungary as is attributed to saving 200,000 Jewish people from the death camps.  Raoul later disappeared inside the Soviet Union, and his family has looked for him for decades with no success.  
+I was totally ignorant of the tragedies the Jewish community faced in Hungary.  Alex Kershaw's book *The Envoy* was as exciting as any modern thriller, but filled with the horror of Hitler's and Eichemann's terror.  This book is about Raoul Wallenberg, a Swede that traveled to Hungary and he is believed to have saved 200,000 Jewish people from the death camps.  
+
+This book describes the heroic efforts made by Raoul and others to save Jews.  Raoul issued Shutzpasses that protected Jews under the Swedish government.  Raoul strived to near exhaustion with others to save Jews from Adolf Eichemann's personal mission to rid Europe of the last remaining Jews in Budapest.  
+
+Raoul later disappeared inside the Soviet Union, and his family has looked for him for decades with no success.  To me, it is a terrible tragedy that Raoul could not be rescued after all the people he himself rescued.
 
 
 Hungary Today
 -------------
-I picked up Eleni Kounalakis's memoir of her times as the US Ambassador to Hungary, Madam Ambassador.  I don't know what I was expecting from this, but I was pleasantly surprised.  Eleni's description of her time in Hungary not only provided historical context, but revealed a lot about modern Hungarians.  Eleni herself is an amazing woman that should serve as a role model to many young girls today.
+I picked up Eleni Kounalakis's memoir of her times as the US Ambassador to Hungary, Madam Ambassador.  I don't know what I was expecting from this, but I was pleasantly surprised.  Eleni's description of her time in Hungary not only provided historical context, but revealed a lot about modern Hungarians.  Eleni herself is an amazing woman that should serve as a role model to many young woman today.
 
 Having grown up in America, the Cold War and Iron Curtain were things that I learned about in school, but they didn't scare me or impact my life.  I had my own troubles that were more immediate.  However, this time in history impacted many people.  
 
-To me, this is clearly highlighted in a story that Eleni shares about when she cut the ribbon for the first Starbucks to open in Budapest.  The woman who trained the baristas for Starbucks shared with Eleni that some Hungarians were stunned into silence when asked for their name for their order.  Does this sound crazy to you?  Such a common place today in the US when ordering food at many restaurants.  
+To me, this is clearly highlighted in a story that Eleni shares about when she cut the ribbon for the first Starbucks to open in Budapest.  The woman who trained the baristas for Starbucks shared with Eleni that some Hungarians were stunned into silence when asked for their name for their order.  Does this sound crazy to you?  Such a common place act today in the US when ordering food at many restaurants.  
 
 I did not grow up in a country where I had to fear that anyone could be reporting to the government about my activities.  If you think the NSA listening in on your cell phone calls or tracking your shopping or web browsing history is horrible, you have no clue.  Get some perspective and read about how things were behind the Iron Curtain.  Read about Kati Marton's parents in the Enemies of the People and perhaps you will understand.  
 
@@ -56,4 +58,4 @@ NONFICTION
 
 FICTION  
 * Cafe Europa: an Edna Ferber mystery, Ed Ifkovic, Poisoned Pen Press, 2015.
-* The Invisible Bridge, 
+* The Invisible Bridge, Julie Orringer, Alfred A. Knopf, 2010.
