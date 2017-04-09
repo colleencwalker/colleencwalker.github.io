@@ -9,6 +9,9 @@ I have never before visited Berlin, and I am really looking forward to seeing th
 
 Keep in mind, I am not presenting a history or complete record.  There are many, many books written about Berlin and the war.  I have read a very small faction of thees, just so that I can learn.
 
+"The Jewish Problem" in Berlin
+------------------------------
+
 Displaced Compassion
 --------------------
 In Erik Larson's book about Ambassador William E. Dodd, the US's first ambassador to Hitler's Germany, brings his family to Berlin.  Dodd was unique as he was not part of the wealthy "Good Boys Club" that typically held diplomatic posts.  He balked at the expenses other diplomats incurred on parties and lifestyles.  The US government did not fund all of the excess Dodd saw, but did not stop it either.
@@ -18,9 +21,9 @@ Larson cites Dodd's observations that dogs and horses were never mistreated.  Do
 
 Bombarded Berlin
 ----------------
-I can't imagine what it is to live through a war and see my town destroyed.  Judt cites some terrible statistics about the effects of the war in his *Postwar*.  75% of Berlin's buildings were unihabitable after the final bombings in May 1945.  We have seen the pictures, but it altogether to live through it.  
+I can't imagine what it is to live through a war and see my town destroyed.  Judt cites some terrible statistics about the effects of the war in his *Postwar*.  75% of Berlin's buildings were unihabitable after the final bombings in May 1945.  We have seen the pictures, but it is altogether something horrible to live through it.  
 
-Joseph Kanon's *Leaving Berlin* is a great story of spying and double crossing in East Berlin right after the war.  As the characters move about the city, they comment on the rubble, the ruins, and the people trying to survive.  
+Joseph Kanon's *Leaving Berlin* is a great story of spying and double crossing in East Berlin right after the war.  As the characters move about the city, they comment on the rubble, the ruins, and the people trying to survive.  The main character visits the home of a family he was very close to, and little remains but the doorway.  Empty lots with piles of rubble fill familiar spots.
 
 Judt cites that it is estimated that about 36.5 million Europeans died between 1939 and 1945.  This is equivalent to the total poluion of France in 1939.  Can you imagine that?  More than **half** of the dead were civilians.  
 
